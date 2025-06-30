@@ -1,2 +1,4 @@
-Dolendo, Jericho Paolo T.
-Lab 1: Celsius to Fahrenheit Converter
+**Dolendo, Jericho Paolo T.** <br>
+**Lab 1: Celsius to Fahrenheit Converter** <br>
+![img.png](img.png)
+![img_1.png](img_1.png)
